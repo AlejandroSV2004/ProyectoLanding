@@ -110,6 +110,7 @@ h6 {
 h1,
 .h1 {
   font-size: 4.5rem;
+  color:#ff342c;
 }
 
 h2,
@@ -328,7 +329,9 @@ a {
 .slideshow.fade-in .swiper-slide.swiper-slide-active .banner-content {
   opacity: 1;
 }
-
+p{
+  color:black;
+}
 /* slide in */
 .slide-in .swiper-slide .banner-content h2,
 .slide-in .swiper-slide .banner-content p,
